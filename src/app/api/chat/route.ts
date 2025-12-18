@@ -56,8 +56,7 @@ Important principles:
 - Prioritize safety and well-being in all guidance
 
 
-Always aim to reduce tension, foster understanding, and help users move toward constructive, respectful outcomes.`;
-
+Always aim to reduce tension, foster understanding, and help users move toward constructive, respectful outcomes.` ;
 
 
 
